@@ -1,1 +1,1 @@
-nginx:latest registry.cn-beijing.personal.cr.aliyuncs.com/dddify/nginx:latest
+nginx:latest  registry.cn-beijing.personal.cr.aliyuncs.com/dddify/nginx:latest
